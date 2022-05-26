@@ -1,3 +1,25 @@
+#API Company
+
+## Descripcion
+
+API para consumir API REST de Requres y Json Placeholder con React Js, Redux, Redux Toolkit, Styled Component y React Hooks Form
+
+### Notas:
+
+En caso de que no se pueda correr el proyecto favor de Instalar las siguientes librerias:
+
+#### npm install axios   
+#### npm install react-router-dom   
+#### npm install --save styled-components
+#### npm install redux react-redux   
+#### npm install @reduxjs/toolkit         
+#### npm install node-sass --save  
+#### npm install use-axios-client  
+#### npm install react-icons   
+#### npm install react-hook-form   
+#### npm install --save react-toastify  
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
